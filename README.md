@@ -1,4 +1,4 @@
-## Hi there I am Hugo Viegas👋
+## Hi! I am Hugo Viegas👋
 
 - 🔭 I’m currently working on my new life
 - 🌱 I’m currently learning React Js

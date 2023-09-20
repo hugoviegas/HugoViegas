@@ -5,11 +5,12 @@
 - 📫 How to reach me: <a href="https://linktr.ee/hviegas">Linktree<a/>
 - 😄 I'll do my best here.
 
-<div align="center">
+/*<div align="center">
   <a href="https://github.com/hugoviegas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hugoviegas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoviegas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+*/
 <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

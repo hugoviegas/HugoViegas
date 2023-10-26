@@ -1,7 +1,7 @@
 ## Hi! I am Hugo Viegas👋
 
 - 🔭 I’m currently working on my new life
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning CS50x
 - 📫 How to reach me: <a href="https://linktr.ee/hviegas">Linktree<a/>
 - 😄 I'll do my best here.
 

@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my new life
 - 🌱 I’m currently learning CS50x
+- 📚 I'm studying at CCT College Dublin
 - 📫 How to reach me: <a href="https://linktr.ee/hviegas">Linktree<a/>
 - 😄 I'll do my best here.
 
@@ -20,4 +21,3 @@
 
 </div>
 
-![Snake animation](https://github.com/hugoviegas/hugoviegas/blob/output/github-contribution-grid-snake.svg)

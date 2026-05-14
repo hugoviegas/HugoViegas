@@ -1,9 +1,9 @@
 ## Hi! I am Hugo Viegas👋
 
-- 🔭 I’m currently working on my new life
-- 🌱 I’m currently learning CS50x
+- 🔭 I’m working on my new life
+- 🌱 I’m learning CS50x
 - 📚 I'm graduated First Class Honours at CCT College Dublin
-- 🤯 Current giving all my ideas life, using AI
+- 🤯 Giving all my ideas life, using AI
 - 📫 How to reach me: <a href="https://hugoviegas.dev">hugoviegas.dev<a/>
 - 😄 I'll do my best here.
 

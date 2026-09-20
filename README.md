@@ -98,7 +98,11 @@ I'm a **Full-Stack Software Engineer** based in Dublin, Ireland, building busine
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hugoviegas/HugoViegas/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugoviegas/HugoViegas/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugoviegas/HugoViegas/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/hugoviegas/HugoViegas/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <p align="center">

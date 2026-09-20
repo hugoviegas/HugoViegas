@@ -92,11 +92,6 @@ I'm a **Full-Stack Software Engineer** based in Dublin, Ireland, building busine
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hugoviegas&show_icons=true&theme=merko&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoviegas&layout=compact&theme=merko&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=hugoviegas&theme=merko&hide_border=true" />
 </p>
 

@@ -95,6 +95,12 @@ I'm a **Full-Stack Software Engineer** based in Dublin, Ireland, building busine
   <img src="https://streak-stats.demolab.com/?user=hugoviegas&theme=merko&hide_border=true" />
 </p>
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hugoviegas/HugoViegas/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:134E13&height=100&section=footer" />
 </p>
